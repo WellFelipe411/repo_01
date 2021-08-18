@@ -1,6 +1,5 @@
 Minha Primeira Anotação
 Segunda anotações
-Efetuei uma alteração após ir para uma versão anterior do repositório
-
+Estou alterando esse arquivo de novo, após uma versão anterior do repositório
 
 
